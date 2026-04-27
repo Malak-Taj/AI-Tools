@@ -42,7 +42,7 @@ tools_data = {
             "use": "Rewrite academic text.",
             "strength": "Strong paraphrasing engine.",
             "link": "https://quillbot.com",
-            "image": "https://img.icons8.com/3d-fluency/50/quillbot.png"
+            "image": "https://cdn.brandfetch.io/idEDptjcNN/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"
         },
         "Notion AI": {
             "description": "Writing and note organization inside Notion.",
@@ -121,7 +121,7 @@ tools_data = {
             "use": "Study sessions.",
             "strength": "Maintains concentration.",
             "link": "https://www.flow.app",
-            "image": "https://www.flow.app/favicon.ico"
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/04/7a/83047a1a-6e18-f7bc-3318-322539404844/AppIcon.lsr/400x400bb.webp"
         },
         "Forest": {
             "description": "Focus timer app.",
