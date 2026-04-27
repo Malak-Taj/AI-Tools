@@ -59,7 +59,7 @@ tools_data = {
             "use": "Quick scientific research.",
             "strength": "Reliable references.",
             "link": "https://www.perplexity.ai",
-            "image": "https://w7.pngwing.com/pngs/1023/480/png-transparent-perplexity-ai-icon-tech-companies.png"
+            "image": "https://svgstack.com/media/img/perplexity-logo-6QnZ386077.webp"
         },
         "SciSpace": {
             "description": "Explains research papers.",
@@ -73,14 +73,14 @@ tools_data = {
             "use": "Finding and comparing papers.",
             "strength": "Strong for research.",
             "link": "https://elicit.com",
-            "image": "https://elicit.com/favicon.ico"
+            "image": "https://cdn.brandfetch.io/idMlO-8ors/w/180/h/180/theme/dark/logo.png"
         },
         "Consensus": {
             "description": "Scientific evidence search.",
             "use": "Evidence-based answers.",
             "strength": "Finds scientific consensus.",
             "link": "https://consensus.app",
-            "image": "https://consensus.app/favicon.ico"
+            "image": "https://cdn.brandfetch.io/id_kzNkZAX/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"
         },
         "Scite": {
             "description": "Tracks paper citations.",
