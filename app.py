@@ -66,7 +66,7 @@ tools_data = {
             "use": "Understanding academic articles.",
             "strength": "Simplifies scientific papers.",
             "link": "https://www.scispace.com",
-            "image": "https://www.scispace.com/favicon.ico"
+            "image": "https://cdn.scite.ai/assets/images/logo-blue.svg"
         },
         "Elicit": {
             "description": "Literature review assistant.",
@@ -97,14 +97,14 @@ tools_data = {
             "use": "Lecture summaries.",
             "strength": "Works on your documents.",
             "link": "https://notebooklm.google",
-            "image": "https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_document_x16.png"
+            "image": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/notebooklm.png"
         },
         "Mem.ai": {
             "description": "Smart knowledge organization.",
             "use": "Structured notes.",
             "strength": "Auto-linking notes.",
             "link": "https://mem.ai",
-            "image": "https://mem.ai/favicon.ico"
+            "image": "https://da6jagld7tjfl.cloudfront.net/d1wpcry0qwvomu5n2hyqzfyrp4jo"
         },
         "Otter.ai": {
             "description": "Converts speech to notes.",
@@ -128,7 +128,7 @@ tools_data = {
             "use": "Avoid distractions.",
             "strength": "Motivating focus.",
             "link": "https://www.forestapp.cc",
-            "image": "https://www.forestapp.cc/favicon.ico"
+            "image": "https://www.forestapp.cc/img/icon.png"
         }
     },
 
@@ -138,14 +138,14 @@ tools_data = {
             "use": "Create slides.",
             "strength": "Beautiful templates.",
             "link": "https://www.canva.com",
-            "image": "https://static.canva.com/static/images/favicon.ico"
+            "image": "https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
         },
         "Gamma": {
             "description": "AI presentation creator.",
             "use": "Generate slides fast.",
             "strength": "Very fast creation.",
             "link": "https://gamma.app",
-            "image": "https://gamma.app/favicon.ico"
+            "image": "https://cdn.brandfetch.io/idAmHoFYTU/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
         }
     },
 
@@ -155,7 +155,7 @@ tools_data = {
             "use": "Medical concept maps.",
             "strength": "Simple visual learning.",
             "link": "https://excalidraw.com",
-            "image": "https://excalidraw.com/favicon.ico"
+            "image": "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/excalidraw-ro4ioabgnrs59a1pe3vw.png/excalidraw-lbtjv7j78i9h62q36986vh.png?_a=DATAiZAAZAA0"
         }
     },
 
@@ -165,7 +165,7 @@ tools_data = {
             "use": "Interview preparation.",
             "strength": "Professional training.",
             "link": "https://www.finalroundai.com",
-            "image": "https://www.finalroundai.com/favicon.ico"
+            "image": "https://d12araoe7z5xxk.cloudfront.net/landing-page/images/full-logo.svg"
         }
     }
 }
