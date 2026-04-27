@@ -1,5 +1,5 @@
 import streamlit as st
-# تتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتتت
+# شتت
 st.set_page_config(page_title="AI Tools For Students", layout="wide")
 
 st.title("🎓 AI Tools For Students")
@@ -25,7 +25,7 @@ tools_data = {
             "use": "Complex concept explanation.",
             "strength": "Clear structured answers.",
             "link": "https://claude.ai",
-            "image": "https://claude.ai/images/claude_app_icon.png"
+            "image": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png"
         }
     },
 
