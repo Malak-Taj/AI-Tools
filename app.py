@@ -42,7 +42,7 @@ tools_data = {
             "use": "Rewrite academic text.",
             "strength": "Strong paraphrasing engine.",
             "link": "https://quillbot.com",
-            "image": "https://assets.quillbot.com/images/meta/logo.png"
+            "image": "https://img.icons8.com/3d-fluency/50/quillbot.png"
         },
         "Notion AI": {
             "description": "Writing and note organization inside Notion.",
@@ -59,7 +59,7 @@ tools_data = {
             "use": "Quick scientific research.",
             "strength": "Reliable references.",
             "link": "https://www.perplexity.ai",
-            "image": "https://www.perplexity.ai/favicon.ico"
+            "image": "https://w7.pngwing.com/pngs/1023/480/png-transparent-perplexity-ai-icon-tech-companies.png"
         },
         "SciSpace": {
             "description": "Explains research papers.",
