@@ -35,7 +35,7 @@ tools_data = {
             "use": "Improve assignments and reports.",
             "strength": "Professional writing enhancement.",
             "link": "https://www.grammarly.com",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Grammarly_icon.svg"
+            "image": "https://svgstack.com/media/img/grammarly-logo-pScf603681.webp"
         },
         "QuillBot": {
             "description": "Paraphrasing and rewriting tool.",
