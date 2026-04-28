@@ -87,7 +87,7 @@ tools_data = {
             "use": "Evaluate paper credibility.",
             "strength": "Citation intelligence.",
             "link": "https://scite.ai",
-            "image": "https://cdn.scite.ai/assets/images/logo-blue.svg"
+            "image": "https://www.ariessys.com/wp-content/uploads/scite.ai-logo.jpeg"
         }
     },
 
