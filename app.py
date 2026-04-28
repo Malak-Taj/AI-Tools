@@ -87,7 +87,7 @@ tools_data = {
             "use": "Evaluate paper credibility.",
             "strength": "Citation intelligence.",
             "link": "https://scite.ai",
-            "image": "https://cdn.scite.ai/assets/images/logo-blue.svg"
+            "image": "https://scite.ai/favicon.ico"
         }
     },
 
@@ -178,11 +178,11 @@ category = st.sidebar.radio("Select Category", all_pages)
 if category == "Intro to AI Tools":
     st.header("Intro to AI Tools")
 
-    st.markdown("### What is an AI Tool?")
+    st.markdown("### 🤖 What is an AI Tool?")
     st.info("**AI-powered software that can automate or assist users with a variety of tasks.**")
 
     st.markdown("---")
-    st.markdown("### Categories Covered in This App")
+    st.markdown("### 📚 Categories Covered in This App")
 
     for cat in tools_data.keys():
         tool_count = len(tools_data[cat])
@@ -211,4 +211,4 @@ else:
                 st.link_button("🔗 Visit Website", info["link"])
 
             with col2:
-                st.image(info["image"], use_container_width=True)
+                st.image(info["image"], width=150)
