@@ -170,45 +170,26 @@ tools_data = {
     }
 }
 
-# Sidebar with Intro page added first
-all_pages = ["Intro to AI Tools"] + list(tools_data.keys())
-category = st.sidebar.radio("Select Category", all_pages)
+category = st.sidebar.radio("Select Category", list(tools_data.keys()))
+st.header(category)
 
-# Handle the Intro page
-if category == "Intro to AI Tools":
-    st.header("Intro to AI Tools")
+tool_names = list(tools_data[category].keys())
+tabs = st.tabs(tool_names)
 
-    st.markdown("### 🤖 What is an AI Tool?")
-    st.info("**AI-powered software that can automate or assist users with a variety of tasks.**")
+for tab, tool in zip(tabs, tool_names):
+    info = tools_data[category][tool]
 
-    st.markdown("---")
-    st.markdown("### 📚 Categories Covered in This App")
+    with tab:
+        col1, col2 = st.columns([2, 1])
 
-    for cat in tools_data.keys():
-        tool_count = len(tools_data[cat])
-        st.markdown(f"- **{cat}** — {tool_count} tool{'s' if tool_count > 1 else ''}")
+        with col1:
+            st.subheader(tool)
+            st.info(info["description"])
+            st.success(f"Best Use: {info['use']}")
+            st.warning(f"Strength: {info['strength']}")
+            st.link_button("🔗 Visit Website", info["link"])
 
-    st.markdown("---")
-    st.markdown("👈 Use the sidebar to explore tools by category.")
+        with col2:
+            st.image(info["image"], use_container_width=True)
 
-else:
-    st.header(category)
 
-    tool_names = list(tools_data[category].keys())
-    tabs = st.tabs(tool_names)
-
-    for tab, tool in zip(tabs, tool_names):
-        info = tools_data[category][tool]
-
-        with tab:
-            col1, col2 = st.columns([2, 1])
-
-            with col1:
-                st.subheader(tool)
-                st.info(info["description"])
-                st.success(f"Best Use: {info['use']}")
-                st.warning(f"Strength: {info['strength']}")
-                st.link_button("🔗 Visit Website", info["link"])
-
-            with col2:
-                st.image(info["image"], width=150)
