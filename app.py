@@ -156,6 +156,13 @@ tools_data = {
             "strength": "Simple visual learning.",
             "link": "https://excalidraw.com",
             "image": "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/excalidraw-ro4ioabgnrs59a1pe3vw.png/excalidraw-lbtjv7j78i9h62q36986vh.png?_a=DATAiZAAZAA0"
+        },
+        "BioDigital Human": {
+            "description": "Interactive 3D human anatomy and medical visualization platform.",
+            "use": "Studying anatomy, organs, and diseases in 3D.",
+            "strength": "Highly visual learning for medical students.",
+            "link": "https://human.biodigital.com/explore",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/1a/1f/671a1f5a-430f-af18-90ff-3f183175bd53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp"
         }
     },
 
