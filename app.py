@@ -66,7 +66,7 @@ tools_data = {
             "use": "Understanding academic articles.",
             "strength": "Simplifies scientific papers.",
             "link": "https://www.scispace.com",
-            "image": "https://cdn.scite.ai/assets/images/logo-blue.svg"
+            "image": "https://scispace.com/scispace-logo-square.svg"
         },
         "Elicit": {
             "description": "Literature review assistant.",
