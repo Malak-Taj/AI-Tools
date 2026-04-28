@@ -178,11 +178,11 @@ category = st.sidebar.radio("Select Category", all_pages)
 if category == "Intro to AI Tools":
     st.header("Intro to AI Tools")
 
-    st.markdown("### 🤖 What is an AI Tool?")
+    st.markdown("### What is an AI Tool?")
     st.info("**AI-powered software that can automate or assist users with a variety of tasks.**")
 
     st.markdown("---")
-    st.markdown("### 📚 Categories Covered in This App")
+    st.markdown("### Categories Covered in This App")
 
     for cat in tools_data.keys():
         tool_count = len(tools_data[cat])
