@@ -145,7 +145,7 @@ tools_data = {
             "use": "Generate slides fast.",
             "strength": "Very fast creation.",
             "link": "https://gamma.app",
-            "image": "https://cdn.brandfetch.io/idAmHoFYTU/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
+            "image": "https://i.pinimg.com/736x/28/6e/d1/286ed1c61132d80b2121db757465d225.jpg"
         }
     },
 
