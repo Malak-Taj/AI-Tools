@@ -138,7 +138,7 @@ tools_data = {
             "use": "Create slides.",
             "strength": "Beautiful templates.",
             "link": "https://www.canva.com",
-            "image": "https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
+            "image": "https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg"
         },
         "Gamma": {
             "description": "AI presentation creator.",
