@@ -7,9 +7,8 @@ st.title("🎓 AI Tools For Students")
 tools_data = {
 "Introduction to Prompt Engineering": {
         "Prompt Engineering Guide": {
-            "description": "Course material and introduction to prompt engineering.",
+            "description": "introduction to prompt engineering.",
             "use": "Learning the fundamentals of crafting effective AI prompts.",
-            "strength": "Direct study resource.",
             "link": "https://drive.google.com/file/d/1kX7r80RPOcbfHznkcW5t81sXHcCS1ufZ/view?usp=sharing",
             "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg"
         },
