@@ -10,6 +10,7 @@ tools_data = {
         "Prompt Engineering Guide": {
             "description": "Introduction to prompt engineering.",
             "use": "Learning the fundamentals of crafting effective AI prompts.",
+            "strength": "An easy, clear, and concise resource.",
             "link": "https://drive.google.com/file/d/1kX7r80RPOcbfHznkcW5t81sXHcCS1ufZ/view?usp=sharing",
             "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg"
         },
