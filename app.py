@@ -8,18 +8,10 @@ st.title("🎓 AI Tools For Students")
 tools_data = {
     "Introduction to Prompt Engineering": {
         "Prompt Engineering Guide": {
-            "description": "Course material and introduction to prompt engineering.",
+            "description": "Introduction to prompt engineering.",
             "use": "Learning the fundamentals of crafting effective AI prompts.",
-            "strength": "Direct study resource.",
             "link": "https://drive.google.com/file/d/1kX7r80RPOcbfHznkcW5t81sXHcCS1ufZ/view?usp=sharing",
             "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg"
-        },
-        "ChatGPT": {
-            "description": "Explains difficult concepts in simple language.",
-            "use": "Understanding medical and academic topics.",
-            "strength": "Interactive and flexible responses.",
-            "link": "https://chat.openai.com",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
         },
     },
     "Understanding Concepts": {
