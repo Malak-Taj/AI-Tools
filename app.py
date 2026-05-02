@@ -82,13 +82,7 @@ tools_data = {
             "link": "https://consensus.app",
             "image": "https://cdn.brandfetch.io/id_kzNkZAX/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"
         },
-        "Scite": {
-            "description": "Tracks paper citations.",
-            "use": "Evaluate paper credibility.",
-            "strength": "Citation intelligence.",
-            "link": "https://scite.ai",
-            "image": "https://www.ariessys.com/wp-content/uploads/scite.ai-logo.jpeg"
-        }
+
     },
 
     "Notes & Summarization": {
